@@ -1,20 +1,31 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fractal Brownian Motion", "Fractal Brownian Motion\Fractal Brownian Motion.csproj", "{E31E46CE-17F9-43FC-9419-6D741CBD9EE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E31E46CE-17F9-43FC-9419-6D741CBD9EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E31E46CE-17F9-43FC-9419-6D741CBD9EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31E46CE-17F9-43FC-9419-6D741CBD9EE7}.Debug|x64.ActiveCfg = Debug|x64
+		{E31E46CE-17F9-43FC-9419-6D741CBD9EE7}.Debug|x64.Build.0 = Debug|x64
 		{E31E46CE-17F9-43FC-9419-6D741CBD9EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E31E46CE-17F9-43FC-9419-6D741CBD9EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31E46CE-17F9-43FC-9419-6D741CBD9EE7}.Release|x64.ActiveCfg = Release|x64
+		{E31E46CE-17F9-43FC-9419-6D741CBD9EE7}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {013F8568-71C2-42A4-BC9A-E9252E8CFCC9}
 	EndGlobalSection
 EndGlobal
